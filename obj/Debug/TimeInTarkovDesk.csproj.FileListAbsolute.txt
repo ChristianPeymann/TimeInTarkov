@@ -1,0 +1,10 @@
+C:\Users\chsch\source\repos\TimeInTarkovDesk\bin\Debug\TimeInTarkovDesk.exe.config
+C:\Users\chsch\source\repos\TimeInTarkovDesk\bin\Debug\TimeInTarkovDesk.exe
+C:\Users\chsch\source\repos\TimeInTarkovDesk\bin\Debug\TimeInTarkovDesk.pdb
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.csproj.SuggestedBindingRedirects.cache
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.Form1.resources
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.Properties.Resources.resources
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.csproj.GenerateResource.cache
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.csproj.CoreCompileInputs.cache
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.exe
+C:\Users\chsch\source\repos\TimeInTarkovDesk\obj\Debug\TimeInTarkovDesk.pdb
