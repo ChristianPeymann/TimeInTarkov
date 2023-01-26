@@ -63,7 +63,7 @@ namespace TimeInTarkovDesk
 
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void panel1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("https://www.paypal.com/donate/?hosted_button_id=LP8T8Z36YPWD8");
 
